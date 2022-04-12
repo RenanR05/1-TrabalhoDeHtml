@@ -1,0 +1,80 @@
+/* Reset Do css */
+* {
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0;
+}
+/* Importando para o BODY inteiro a font Roboto */
+body{
+  font-family: Roboto, sans-serif;
+}
+
+/* Borda do Curriculo */
+.container{
+  margin: 20px 0px 20px 20px;
+  border: 1px solid ;
+  height: 740px;
+  width: 600px;
+}
+
+/* Titulo Do Curriculo */
+.title{
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  height: 60px;
+  width: 579px;
+  background-color: chartreuse;
+}
+/* Foto */
+.photo{
+  margin: 15px 0px 0px 220px;
+  height: 100px;
+  width: 150px;
+}
+
+/* Margin Para os Dados Pessoais */
+.personalData{
+  margin: 10px 0px 0px 220px;
+}
+
+/* H1 Dos Dados Pessoais */
+.text{
+  font-size: x-large;
+  padding-bottom: 30px;
+}
+
+/* Mexe no NOME, DATA DE NASCIMENTO, E-MAIL E APELIDO */
+.data{
+  margin: 0px 0px 0px 30px;
+  font-size: medium;
+}
+
+/* FAZ A BARRA DE DIVISAO DO CURRICULO */
+.bar{
+  margin: 0px 10px 15px 10px;
+  height: 2px;
+  width: 580px;
+  background-color:  black;
+}
+
+/* H1 FORMAÇÃO & CURSOS */
+.text02{
+  font-size: large;
+  margin: 0px 0px 10px 210px;
+}
+
+/* H1 DO Porque Voce Deve Contratar ele */
+.text03{
+  margin: 0px 0px 0px 67px
+}
+
+/* MEXE NO P DO  Porque Voce Deve Contratar ele */
+.data02{
+  font-size: medium;
+  margin: 10px 0px 0px 30px;
+  width: 550px;
+}
